@@ -4,11 +4,11 @@ import type { User } from "./types";
 import { UserCard } from "./UserCard";
 
 const INITIAL_DATA: User[] = [
-    { name: "Biga", email: "biga@mail.com", age: 25 },
-    { name: "Oljas", email: "oljas@mail.com", age: 30 },
-    { name: "Baha", email: "baha@mail.com", age: 19 },
-    { name: "Nurik", email: "nurik@mail.com", age: 28 },
-    { name: "Nauryz", email: "nauryz@mail.com", age: 22 },
+    { name: "vrwsn", email: "vjwi@mail.com", age: 25 },
+    { name: "vewi", email: "svhdis@mail.com", age: 30 },
+    { name: "vew", email: "bveuwi@mail.com", age: 19 },
+    { name: "vewik", email: "vew@mail.com", age: 28 },
+    { name: "Nvewvryz", email: "vedwvyz@mail.com", age: 22 },
 ];
 
 export const SearchApp = () => {
